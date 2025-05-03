@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, My name is Athan Cheng, and
 
 <!--
 **athancheng/athancheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
